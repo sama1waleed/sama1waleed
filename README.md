@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sama1waleed
 - 👀 I am interested in programming and artificial intelligence.
-- 🌱 I am currently studying computer science.
+- 🌱 a Fresh graduate in Computer Science.
 - 📫 How to reach me: samawaleed929@gmail.com
 
 <!---
